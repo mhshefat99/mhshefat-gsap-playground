@@ -1,1 +1,1 @@
-# Ultimate GSAP Workshop Starter
+# use this project to learn gsap animations
